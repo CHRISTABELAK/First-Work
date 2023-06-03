@@ -1,0 +1,32 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+.general{
+     width: 60;
+}
+.firstSection{
+    height: 200px;
+}
+.firstSection h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.firstSection p{
+    color: #3BC5E2;
+    font-size: 1.5rem;
+}
+
+.secondSection{
+    background-color: #3BB5CA;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+}
+.fruits{
+    margin-top: -70px;
+
+}
+
+
+ 
